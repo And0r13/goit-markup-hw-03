@@ -128,7 +128,7 @@ img {
 
 .hero {
     background-color: #2e2f42;
-padding: 188px 0;
+    padding: 188px 0 188px;
 }
 
 
@@ -267,6 +267,12 @@ letter-spacing: 0.02em;
         text-transform: capitalize;
         
         margin-bottom: 72px;
+}
+
+.appendix{
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
 }
 
 .portfolio-subtitle{
