@@ -211,6 +211,10 @@ letter-spacing: 0.02em;
     background-color: #f4f4fd;
 }
 
+.worker{
+    padding: 32px 0;
+}
+
 .worker-name{
     font-weight: 500;
     font-size: 20px;
@@ -219,7 +223,7 @@ letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
     margin-top: 32px;
-    padding-bottom: 8px;
+    margin-bottom: 8px;
 }
 
 .worker-job{
@@ -228,7 +232,7 @@ letter-spacing: 0.02em;
     line-height: 150%;
     letter-spacing: 0.02em;
     text-align: center;
-    padding-bottom: 32px;
+    margin-bottom: 32px;
 }
 
 .team-card {
