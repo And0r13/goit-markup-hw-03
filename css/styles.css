@@ -127,12 +127,9 @@ padding: 24px 0;
 }
 
 .hero {
-padding: 188px 0
-}
-
-.hero {
     background-color: #2e2f42;
-    
+    padding-top: 188px;
+    padding-bottom: 188px;
 }
 
 .hero-button{
